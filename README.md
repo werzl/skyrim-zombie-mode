@@ -8,7 +8,7 @@ The minigame is triggered by starting a quest in /Falkreath/Dawnstar/Morthal/etc
 
 Quest is to protect the town from a horde of Draugr.
 
-They come in waves.
+They come in waves, and get stronger with each wave (Draugr -> Draugr Deathlord).
 
 Kill certain amount before the wave ends.
 
