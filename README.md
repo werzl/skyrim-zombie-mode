@@ -1,6 +1,8 @@
 # skyrim-zombie-mode
 A Skyrim SE mod with a tower defence minigame.
 
+https://www.creationkit.com/index.php?title=Main_Page
+
 # Design
 
 ## Overview
